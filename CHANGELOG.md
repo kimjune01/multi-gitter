@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.63.2](https://github.com/lindell/multi-gitter/compare/v0.63.1...v0.63.2) (2026-05-11)
+
+
+### Dependencies
+
+* update module github.com/go-git/go-git/v5 to v5.19.0 [security] ([af9ea1a](https://github.com/lindell/multi-gitter/commit/af9ea1aa6c7e2eedf236c779e200222ccb980555))
+
 ## [0.63.1](https://github.com/lindell/multi-gitter/compare/v0.63.0...v0.63.1) (2026-05-10)
 
 
